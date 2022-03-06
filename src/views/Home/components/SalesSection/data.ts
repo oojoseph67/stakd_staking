@@ -1,7 +1,7 @@
 import { SalesSectionProps } from '.'
 
 export const swapSectionData: SalesSectionProps = {
-  headingText: 'Trade ANONSHIB. No registration, no hassle.',
+  headingText: 'Trade ANONSHIB. No registration, no hassle, no worries.',
   bodyText: 'Trade tokens on Binance Smart Chain in seconds, just by connecting your wallet.',
   reverse: false,
   primaryButton: {
